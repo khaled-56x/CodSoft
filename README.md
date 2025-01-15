@@ -1,2 +1,2 @@
-# CodSoft
+# CODSOFT
 For Tasks in codsoft
